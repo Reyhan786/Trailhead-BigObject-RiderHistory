@@ -57,7 +57,7 @@ This project demonstrates how to create, define, and deploy a **Custom Big Objec
 
 ---
 ## Video Demo 
-/videos/Big Object.mp4 ([./videos/Big Object.Mp4]())
+/videos/Big Object.mp4 ([./videos/Big Object.Mp4](https://github.com/Reyhan786/Trailhead-BigObject-RiderHistory/blob/f07ef7819c325beab2cb08df61d2aada06b7143b/Big%20Object.mp4))
 
 
 
