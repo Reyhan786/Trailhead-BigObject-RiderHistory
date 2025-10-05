@@ -56,7 +56,9 @@ This project demonstrates how to create, define, and deploy a **Custom Big Objec
 5. Change deployment status to **Deployed**.
 
 ---
-## Video Demo 
+## Video Demo
+The demo video for this project is too large to preview on GitHub so please check the link and download to watch.
+
 /videos/Big Object.mp4 ([./videos/Big Object.Mp4](https://github.com/Reyhan786/Trailhead-BigObject-RiderHistory/blob/f07ef7819c325beab2cb08df61d2aada06b7143b/Big%20Object.mp4))
 
 
