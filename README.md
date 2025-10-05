@@ -56,8 +56,8 @@ This project demonstrates how to create, define, and deploy a **Custom Big Objec
 5. Change deployment status to **Deployed**.
 
 ---
-## Video Demo
-/videos/Rider_History_Demo.mp4
+## Video Demo 
+/videos/Big Object.mp4 ([./videos/Big Object.Mp4]())
 
 
 
